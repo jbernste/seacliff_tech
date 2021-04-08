@@ -25,7 +25,6 @@ const HomeOne = () => {
             <HomeSuccess />
             <Portfolio />
             <HomeBlog />
-            <Newsletter />
             <ContactInformation />
             <Footer />
             <ScrollToTop />
