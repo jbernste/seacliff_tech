@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "image": "images/team/team-1.jpg",
+        "name": "Joshua Bernstein",
+        "designation": "Project manager"
+    },
+    {
+        "id": 2,
+        "image": "images/team/team-2.jpg",
+        "name": "James Golden",
+        "designation": "Marketing"
+    },
+    {
+        "id": 3,
+        "image": "images/team/team-3.jpg",
+        "name": "Gen Roddenbaum ",
+        "designation": "Accounting"
+    },
+    {
+        "id": 4,
+        "image": "images/team/team-4.jpg",
+        "name": "Kevin Lu",
+        "designation": "Project manager"
+    }
+]

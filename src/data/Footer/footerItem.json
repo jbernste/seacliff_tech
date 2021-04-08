@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Services",
+        "list": [
+            {
+            "id": 1,
+            "text": "Marketing",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "SEO/SEM",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": "Development",
+            "url": "/"
+            },
+            {
+            "id": 4,
+            "text": "UX Design",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Products",
+        "list": [
+            {
+            "id": 1,
+            "text": "Optimum Hosting",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "Commerce Pro",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": "Lead Gen",
+            "badge": "New",
+            "url": "/"
+            },
+            {
+            "id": 4,
+            "text": "Redefine Brand",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "About",
+        "list": [
+            {
+            "id": 1,
+            "text": "Features",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "Our Partners",
+            "url": "/"
+            },
+            {
+            "id": 3,
+            "text": "Reseller Program",
+            "url": "/"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Contact",
+        "list": [
+            {
+            "id": 1,
+            "text": "Support Ticket",
+            "url": "/"
+            },
+            {
+            "id": 2,
+            "text": "FAQs",
+            "url": "/"
+            }
+        ]
+    }
+]

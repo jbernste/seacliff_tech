@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "images/testimonial/90/author-1.png",
+        "desc": "Sea Cliff Tech really saved us when our website got hacked. They were quick, accurate, and professional!",
+        "name": "Sabrina Hager",
+        "position": "Hager Accounting"
+    },
+    {
+        "id": 2,
+        "image": "images/testimonial/90/author-2.png",
+        "desc": "They are our digital marketing and technology rock. With them we can go the extra mile for our audience.",
+        "name": "Monique Zhang",
+        "position": "CEO at Jade"
+    },
+    {
+        "id": 3,
+        "image": "images/testimonial/90/author-3.png",
+        "desc": "I love their ingenuity. Even when my business is not computerized, they could still drive local customers to us using online marketing.",
+        "name": "Gina Chang",
+        "position": "Owner Aki's Cleaner"
+    },
+    {
+        "id": 1,
+        "image": "images/testimonial/90/author-1.png",
+        "desc": "They really know thier stuff. We have gotten better results by using them on our social engineering projects.",
+        "name": "Chris Babcock Art",
+        "position": "/ Marketing Admin"
+    }
+]

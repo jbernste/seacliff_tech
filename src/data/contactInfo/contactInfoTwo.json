@@ -1,0 +1,20 @@
+[
+    {
+    "id": "1",
+    "icon": "images/svg/linea/linea-basic-map.svg",
+    "title": "Our Locations",
+    "info": " 5901 California Street, San Francisco, CA "
+    },
+    {
+    "id": "2",
+    "icon": "images/svg/linea/linea-basic-message-txt.svg",
+    "title": "Give Us A Call",
+    "info": "(+1) 415-398-4000"
+    },
+    {
+    "id": "3",
+    "icon": "images/svg/linea/linea-basic-mail-open-text.svg",
+    "title": "Help Desk",
+    "info": "support@seaclifftech.com , sales@seaclifftech.com"
+    }
+]
