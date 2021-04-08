@@ -17,7 +17,7 @@ import ScrollToTop from '../components/ScrollToTop.jsx';
 const HomeOne = () => {
     return (
         <React.Fragment>
-            <SEO title="Seacliff Tech Services – SEO website branding digital marketing service." />
+            <SEO title="Seacliff Tech Services – SEO website branding with digital marketing service." />
             <Header />
             <IntroSlider />
             <HomeAbout />
