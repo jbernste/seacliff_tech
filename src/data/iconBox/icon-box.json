@@ -27,8 +27,8 @@
         "id": "4",
         "icon": "images/svg/linea/linea-ecommerce-cart-plus.svg",
         "title": "Ecommerce",
-        "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
-        "pageLink": "Learn More",
+        "desc": "Let our ecommerce team get you results with showcased products socially targeted to thousands of real customers.",
+        "pageLink": " ",
         "link": "service"
     },
     {
@@ -36,16 +36,15 @@
         "icon": "images/svg/linea/linea-basic-gear.svg",
         "title": "Development",
         "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
-        "pageLink": "Learn More",
+        "pageLink": " ",
         "link": "service"
     },
     {
         "id": "6",
         "icon": "images/svg/linea/linea-basic-display.svg",
         "title": "Marketing",
-        "desc": "Our web design services can help rediscover your business’ image in the internet marketplace.",
-        "pageLink": "Learn More",
+        "desc": "Our social media managers can attract specific clients to your products and services using our social targeting algorithms.",
+        "pageLink": " ",
         "link": "service"
     }
-    
 ]
